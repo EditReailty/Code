@@ -1,0 +1,5 @@
+﻿  2577leii.cpp
+D:\Nsoft_2\cppcode\2577lei\2577lei\MyString.h(29,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“2577leii.cpp”)
+  
+  2577lei.vcxproj -> D:\Nsoft_2\cppcode\2577lei\x64\Debug\2577lei.exe

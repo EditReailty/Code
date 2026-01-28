@@ -1,0 +1,8 @@
+﻿  25730stl.cpp
+D:\Nsoft_2\cppcode\25730stl\25730stl\25730stl.cpp(166,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Nsoft_2\cppcode\25730stl\25730stl\25730stl.cpp(197,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Nsoft_2\cppcode\25730stl\25730stl\25730stl.cpp(206,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Nsoft_2\cppcode\25730stl\25730stl\25730stl.cpp(562,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Nsoft_2\cppcode\25730stl\25730stl\25730stl.cpp(967,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\Nsoft_2\cppcode\25730stl\25730stl\25730stl.cpp(979,11): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  25730stl.vcxproj -> D:\Nsoft_2\cppcode\25730stl\x64\Debug\25730stl.exe

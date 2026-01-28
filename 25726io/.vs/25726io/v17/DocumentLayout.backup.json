@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nsoft_2\\cppcode\\25726io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D98DAD-038F-4B2C-A821-14F2F9998B51}|25726io\\25726io.vcxproj|D:\\Nsoft_2\\cppcode\\25726io\\25726io\\25726io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7D98DAD-038F-4B2C-A821-14F2F9998B51}|25726io\\25726io.vcxproj|solutionrelative:25726io\\25726io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "25726io.cpp",
+              "DocumentMoniker": "D:\\Nsoft_2\\cppcode\\25726io\\25726io\\25726io.cpp",
+              "RelativeDocumentMoniker": "25726io\\25726io.cpp",
+              "ToolTip": "D:\\Nsoft_2\\cppcode\\25726io\\25726io\\25726io.cpp",
+              "RelativeToolTip": "25726io\\25726io.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADABAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-26T08:27:05.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

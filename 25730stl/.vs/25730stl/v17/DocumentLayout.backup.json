@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nsoft_2\\cppcode\\25730stl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE22C717-CEE4-4C1C-852E-0D142671C38C}|25730stl\\25730stl.vcxproj|D:\\Nsoft_2\\cppcode\\25730stl\\25730stl\\25730stl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE22C717-CEE4-4C1C-852E-0D142671C38C}|25730stl\\25730stl.vcxproj|solutionrelative:25730stl\\25730stl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE22C717-CEE4-4C1C-852E-0D142671C38C}|25730stl\\25730stl.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\ALGORITHM||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "algorithm",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\algorithm",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\algorithm",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAuwJEBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-08T09:12:13.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "25730stl.cpp",
+              "DocumentMoniker": "D:\\Nsoft_2\\cppcode\\25730stl\\25730stl\\25730stl.cpp",
+              "RelativeDocumentMoniker": "25730stl\\25730stl.cpp",
+              "ToolTip": "D:\\Nsoft_2\\cppcode\\25730stl\\25730stl\\25730stl.cpp",
+              "RelativeToolTip": "25730stl\\25730stl.cpp",
+              "ViewState": "AgIAABkDAAAAAAAAAAAAAOUCAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T07:43:55.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
